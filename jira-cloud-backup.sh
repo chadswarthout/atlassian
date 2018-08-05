@@ -3,7 +3,7 @@
 #With Atlassian Cloud rate limits, only can run once every 48 hours.
 
 USERNAME=username
-PASSWORD=password
+PASSWORD=apikey
 INSTANCE=yoursite.atlassian.net
 LOCATION="/atlassian-backups/"
 
